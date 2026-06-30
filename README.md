@@ -6,8 +6,8 @@ large language and vision-language models from research into production for Kore
 — retrieval-augmented QA, embeddings, fine-tuning & quantization, multimodal serving, and
 on-device health sensing.
 
-🎓 Korea University · 🧠 ex-Seoul National University (Brain & Cognitive Science) ·
-🗣️ Hankuk Univ. of Foreign Studies (English Linguistics & Language Technology) · 🏢 maum.ai  
+🎓 Seoul National University (Computer Science & Engineering · Brain & Cognitive Science) ·
+Korea University (Brain & Cognitive Engineering) · 🏢 maum.ai  
 🔗 [ORCID 0009-0000-0905-4337](https://orcid.org/0009-0000-0905-4337)
 
 ---
