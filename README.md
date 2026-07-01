@@ -44,4 +44,6 @@ Korea University (Brain & Cognitive Engineering) · 🏢 maum.ai
 GitHub [@PFSV](https://github.com/PFSV) · Hugging Face [@hyunseop](https://huggingface.co/hyunseop) ·
 ORCID [0009-0000-0905-4337](https://orcid.org/0009-0000-0905-4337) · ✉️ xianxie31@korea.ac.kr
 
+🔬 Community: [GDG AI for Science Korea](https://gdg.community.dev/gdg-ai-for-science-korea/)
+
 <!-- TODO: add LinkedIn / Google Scholar links if you want them here. -->
