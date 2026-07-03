@@ -3,8 +3,7 @@
 **Applied NLP / AI Researcher** with a **cognitive-neuroscience** background.
 I started out comparing how *brains* and *language models* process meaning, and now take
 large language / NLP models from research into production for Korean enterprise
-— retrieval-augmented QA, embeddings, fine-tuning & quantization, and
-on-device health sensing.
+— retrieval-augmented QA, embeddings, fine-tuning & quantization. Vision-language and on-device health sensing (vision-cardio) are side projects.
 
 🎓 Seoul National University (Computer Science & Engineering · Brain & Cognitive Science) ·
 Korea University (Brain & Cognitive Engineering) · 🏢 maum.ai  
@@ -13,11 +12,11 @@ Korea University (Brain & Cognitive Engineering) · 🏢 maum.ai
 ---
 
 ### 🔭 What I work on
+- **Cognitive neuroscience × language** — neuroimaging-vs-NLP comparisons of metaphor and reasoning.
 - **Grounded RAG** — "verified-unit" QA that answers from operator-approved content or abstains, *non-fabrication by construction*.
 - **Korean retrieval embeddings** — fine-tuned & published encoders (BGE-M3-ko, Qwen3) with measured MTEB / MIRACL / AutoRAG results.
 - **LLM fine-tuning & quantization** — Gemma-class SFT/ORPO + FP8 serving on H100 SLURM.
 - **Vision & on-device (side project)** — vision-language models, plus camera-based rPPG heart-rate sensing shipped to iOS via Core ML.
-- **Cognitive neuroscience × language** — neuroimaging-vs-NLP comparisons of metaphor and reasoning — the research roots of the applied work above.
 
 ### 🏆 Selected awards
 - **Best Paper (poster)** — Max Planck Institute for Human Cognitive & Brain Sciences, *OHBM 2024*
