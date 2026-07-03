@@ -1,9 +1,9 @@
 # Hi, I'm Hyeonseop Yoon (윤현섭) 👋
 
-**Applied LLM / VLM researcher–engineer** with a **cognitive-neuroscience** background.
+**Applied NLP / AI Researcher** with a **cognitive-neuroscience** background.
 I started out comparing how *brains* and *language models* process meaning, and now take
-large language and vision-language models from research into production for Korean enterprise
-— retrieval-augmented QA, embeddings, fine-tuning & quantization, multimodal serving, and
+large language / NLP models from research into production for Korean enterprise
+— retrieval-augmented QA, embeddings, fine-tuning & quantization, and
 on-device health sensing.
 
 🎓 Seoul National University (Computer Science & Engineering · Brain & Cognitive Science) ·
@@ -16,8 +16,8 @@ Korea University (Brain & Cognitive Engineering) · 🏢 maum.ai
 - **Grounded RAG** — "verified-unit" QA that answers from operator-approved content or abstains, *non-fabrication by construction*.
 - **Korean retrieval embeddings** — fine-tuned & published encoders (BGE-M3-ko, Qwen3) with measured MTEB / MIRACL / AutoRAG results.
 - **LLM fine-tuning & quantization** — Gemma-class SFT/ORPO + FP8 serving on H100 SLURM.
-- **Vision & on-device** — vision-language models, plus camera-based rPPG heart-rate sensing shipped to iOS via Core ML.
-- **Brain × language** — neuroimaging-vs-NLP comparisons of metaphor and reasoning (the research roots of all the above).
+- **Vision & on-device (side project)** — vision-language models, plus camera-based rPPG heart-rate sensing shipped to iOS via Core ML.
+- **Cognitive neuroscience × language** — neuroimaging-vs-NLP comparisons of metaphor and reasoning — the research roots of the applied work above.
 
 ### 🏆 Selected awards
 - **Best Paper (poster)** — Max Planck Institute for Human Cognitive & Brain Sciences, *OHBM 2024*
